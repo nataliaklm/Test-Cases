@@ -1,6 +1,7 @@
 # Test cases for Rest & Soap APIs
 
 In the first file - Test cases for REST API (doRegister method), a test suite made of 12 test cases can be found. The described test cases aim to check the Registration functionality developed within Users project. All test cases designed for this functionality were run using API testing tool - Postman.
+
 In the second file - Test cases for SOAP API (CreateCompany method), the new company creation functionality was tested via 16 test cases. Used testing tool - SoapUI.
 
 Notes:
